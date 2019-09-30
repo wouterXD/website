@@ -22,5 +22,11 @@ contributions:
       name: "Ayman"
     url: "https://raw.githubusercontent.com/aymanmh/cinder/master/FractalTree/FractalTree.png"
     source: "https://github.com/aymanmh/cinder/tree/master/FractalTree"
+    - title: "Animated object oriented fractal trees in all the colors of the rainbow :)"
+    author:
+      name: "Wouter Missler"
+      url: "http://woutermissler.nl"
+    url: "http://www.woutermissler.nl/downloads/Fractals/"
+    source: "http://www.woutermissler.nl/downloads/Fractals/sketch.js"
 ---
 In this coding challenge, I continue the topic of algorithmic botany with another way of generating a tree. With this method, every part of the tree will be an object, so that we can apply forces and attributes to each element
